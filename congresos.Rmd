@@ -1,0 +1,46 @@
+---
+title: "Artículos presentados a congresos"
+output: html_document
+---
+
+- Cara, J., Fernández, J., Fraile, A., Lorenzana, A. *Modeling jumping loads using time series models*. 4th International Conference on Mechanical Models in Structural Engineering. Madrid, November 2017.
+
+- Cara, J., Juan, J., Alarcón, E. *State space model and its estimation for Operational Modal Analysis with non-white noise inputs*. X International Conference on Structural Dynamics, EURODYN. Rome, September 2017.
+
+- Caro, E., Juan, J., Cara, J. *Estimating Periodially Correlated Models for Short-Term Eletricity Load Foreasting*. 37th International Symposium on Forecasting. Cairns, June 2017.
+
+- Cara, J., Magdaleno, A., Lorenzana, A. *Input/Output versus output only modal analysis of a stress-ribbon footbridge*. 7th International Operational Modal Analysis Conference - IOMAC2017. Ingolstadt, May 2017.
+
+- Cara, J., Fernandez, C., Mira, J. *Statistical approaches to sensitivity analysis in structural mechanics*. 9th International Conference on Computational and Methodological Statistics. Seville, December 2016.
+
+- Cara, F.J., Caro, E., Juan, J. *Estimación de un modelo lineal dinámico para la predicción de la demanda eléctrica*. XXXVI Congreso Nacional de Estadística e Investigación Operativa, SEIO. Toledo, Septiembre de 2016.
+
+- Cara, J., Juan, J., Alarcón, E. *Modal identification of structures from roving input data by means of maximum likelihood estimation*. International Conference on Noise and Vibration Engineering - ISMA 2016. Leuven, September 2016.
+
+- Cara, J. *The expectation maximization algorithm for the state space model with correlated errors*. 22nd International Conference on Computational Statistics COMPSTAT 2016. Oviedo, August 2016.
+
+- Cara, J., Caetano, E., Magalhaes, F., Alarcón, E. *Uncertainty of damping ratios estimated in a multi-setup OMA of a cable-stayed bridge*. 6th International Operational Modal Analysis Conference. Gijon, May 2015.
+
+- Caro, E., Cara, J., Juan, J. *Forecasting Photovoltaic Energy using MEWMA models*. 12th International Conference on the European Energy Market EEM15. Lisbon, 2015.
+
+- Cara, F.J., Juan, J., Alarcón, E. *Using the EM algorithm to estimate the state space model for OMAX*. International Conference on Noise and Vibration Engineering - ISMA 2014. Leuven, September 2014. ISBN 9789073802919.
+
+- Cara, F.J., Juan, J., Alarcón, E. *State space models for multi-setup operational modal analysis*. IX International Conference on Structural Dynamics, EURODYN. Porto, July 2014.
+
+- Cara, F.J., Alarcón, E., Juan, J. *Operational Modal Analysis using joint statistical analysis of multiple records*. 11th International Conference on Recent Advances in Structural Dynamics - RASD2013. Pisa, July 2013.
+
+- Cara, F.J., Juan, J., Alarcón, E. *Joint statistical analysis of multiple measurement setups for the estimation of vibrational modes*. 5th International Operational Modal Analysis Conference - IOMAC2013. Guimaraes, May 2013.
+
+- Cara, F.J., Juan, J. *Modal Analysis with replications*. Issues on Mechanical and Civil Engineering. Madrid, November 2012.
+
+- Cara, F.J., Juan, J., Alarcón, E. *Estimation of modal parameters in structures using multiple time history records*. International Conference on Noise and Vibration Engineering - ISMA 2012. Leuven, September 2012.
+
+- Cara, F.J., Carpio, J., Juan, J., Alarcón, E. *Estimacion máxima verosímil de parámetros modales en estructuras mediante el algoritmo Expectation-Maximization*. XXXIII Congreso Nacional de Estadística e Investigación Operativa, SEIO. Madrid, abril 2012.
+
+- Cara, F.J., Carpio, J., Juan, J., Alarcón, E. *Operational Modal Analysis using the Expectation Maximization Algorithm*. VIII International Conference on Structural Dynamics, EURODYN. Leuven, July 2011.
+
+- Cara, F.J., Carpio, J., Juan, J., Alarcón, E. *Maximum Likelihood Estimation of Modal Parameters in Structures using the Expectation Maximization Algorithm*. VII International Conference on Computational Structures Technology. Valencia, September 2010.
+
+- Cara, F. J., Carpio, J., Juan, J., Alarcón, E. *Computational methods for identification of vibrating structures*. XII International Conference on Civil, Structural and Environmental Engineering Computing. Madeira, September 2009.
+
+- Cara, F.J., Carpio, J., Juan, J., Alarcón, E. *Identificación de parámetros en estructuras mediante el estudio de registros temporales*. XXXI Congreso Nacional de Estadística e Investigación Operativa, SEIO. Murcia, febrero 2009

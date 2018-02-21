@@ -1,0 +1,27 @@
+---
+title: "Javier Cara"
+---
+
+[Laboratorio de Estadística](http://www.etsii.upm.es/ingor/estadistica/)
+
+[Escuela Técnica Superior de Ingenieros Industriales (ETSII)](http://http://www.etsii.upm.es/)
+
+[Universidad Politécnica de Madrid (UPM)](http://www.upm.es)
+
+<br>
+
+## Formación
+- Doctor Ingeniero, Universidad Politécnica de Madrid, 2013.
+- Ingeniero de Caminos, Canales y Puertos, Universidad de Granada, 2001.
+
+<br>
+
+## Intereses
+- Modelo espacio de los estados
+- Algoritmo EM
+- Método de los subespacios
+- Análisis modal operacional
+- Análisis de señales
+- Series temporales
+- Árboles de clasificación y regresión
+- Programación en R

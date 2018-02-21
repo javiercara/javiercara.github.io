@@ -1,0 +1,14 @@
+---
+title: "Docencia"
+output: html_document
+---
+
+## Asignaturas impartidas en el curso 2017/18
+
+- Grado en Ingeniería en Tecnologías Industriales
+    - Estadística
+    - Diseño de Experimentos y Modelos de Regresión
+- Máster Universitario en Ingeniería de Organización
+    - BigData: de los datos a las decisiones
+- Máster Universitario en Ingeniería Sísmica
+    - Control Dinámico de Estructuras

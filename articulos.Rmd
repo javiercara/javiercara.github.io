@@ -1,0 +1,12 @@
+---
+title: "Artículos en revistas JCR"
+output: html_document
+---
+
+1. Javier Cara. *Computing the modal mass from the state space model in combined experimental–operational modal analysis*. Journal of Sound and Vibration, Volume 370, 26 May 2016, Pages 94-110, http://dx.doi.org/10.1016/j.jsv.2016.01.043.
+
+2. F. Javier Cara, J. Juan, E. Alarcón. *Estimating the modal parameters from multiple measurement setups using a joint state space model*. Mechanical Systems and Signal Processing. Vol. 43, p. 171-191, 2014, http://dx.doi.org/10.1016/j.ymssp.2013.09.012.
+
+3. F. Javier Cara, J. Juan, E. Alarcón, E. Reynders, G. De Roeck. *Modal contribution and state-space order selection in operational modal analysis*. Mechanical Systems and Signal Processing. Vol. 38, p. 276-298, 2013, http://dx.doi.org/10.1016/j.ymssp.2013.03.001.
+
+4. F. Javier Cara, J. Carpio, J. Juan, E. Alarcón. *An approach to Operational Modal Analysis using the Expectation Maximization Algorithm*. Mechanical Systems and Signal Processing. Vol. 31, p. 109-129, August 2012, http://dx.doi.org/10.1016/j.ymssp.2012.04.004.
