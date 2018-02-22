@@ -1,7 +1,9 @@
 ---
-title: "Artículos en revistas JCR"
+title: "Journal papers with peer review"
 output: html_document
 ---
+
+<hr>
 
 1. Javier Cara. *Computing the modal mass from the state space model in combined experimental–operational modal analysis*. Journal of Sound and Vibration, Volume 370, 26 May 2016, Pages 94-110, http://dx.doi.org/10.1016/j.jsv.2016.01.043.
 

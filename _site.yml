@@ -6,17 +6,17 @@ navbar:
   - text: Home
     icon: fa-home
     href: index.html
-  - text: Docencia
+  - text: Teaching
     icon: fa-graduation-cap
-    href: docencia.html
-  - text: Publicaciones
+    href: teaching.html
+  - text: Publications
     icon: fa-bar-chart
-    href: publicaciones.html
+    href: publications.html
     menu:
-    - text: Articulos
-      href: articulos.html
-    - text: Congresos
-      href: congresos.html
+    - text: Journal papers
+      href: pub_papers.html
+    - text: Conferences
+      href: pub_conferences.html
   right:
   - icon: fa-envelope fa-lg
     href: mailto:<javier.cara@upm.es>

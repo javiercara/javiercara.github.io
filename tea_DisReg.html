@@ -11,7 +11,7 @@
 
 
 
-<title>Docencia</title>
+<title>Diseño de Experimentos y Modelos de Regresión</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -187,26 +187,26 @@ $(document).ready(function () {
   </a>
 </li>
 <li>
-  <a href="docencia.html">
+  <a href="teaching.html">
     <span class="fa fa-graduation-cap"></span>
      
-    Docencia
+    Teaching
   </a>
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
     <span class="fa fa-bar-chart"></span>
      
-    Publicaciones
+    Publications
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="articulos.html">Articulos</a>
+      <a href="pub_papers.html">Journal papers</a>
     </li>
     <li>
-      <a href="congresos.html">Congresos</a>
+      <a href="pub_conferences.html">Conferences</a>
     </li>
   </ul>
 </li>
@@ -239,28 +239,57 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Docencia</h1>
+<h1 class="title toc-ignore">Diseño de Experimentos y Modelos de Regresión</h1>
 
 </div>
 
 
-<div id="asignaturas-impartidas-en-el-curso-201718" class="section level2">
-<h2>Asignaturas impartidas en el curso 2017/18</h2>
-<ul>
-<li>Grado en Ingeniería en Tecnologías Industriales
-<ul>
-<li>Estadística</li>
-<li>Diseño de Experimentos y Modelos de Regresión</li>
-</ul></li>
-<li>Máster Universitario en Ingeniería de Organización
-<ul>
-<li>BigData: de los datos a las decisiones</li>
-</ul></li>
-<li>Máster Universitario en Ingeniería Sísmica
-<ul>
-<li>Control Dinámico de Estructuras</li>
-</ul></li>
-</ul>
+<hr>
+<div id="material-de-r" class="section level1">
+<h1>Material de R</h1>
+<p>Los datos y funciones de R que se utilizan en la asignatura se encuentran en el paquete de R llamado DisRegETSII. Para instalar este paquete hay que:</p>
+<ol style="list-style-type: decimal">
+<li>Instalar el paquete <em>devtools</em> y cargarlo:</li>
+</ol>
+<pre class="r"><code>install.packages(&quot;devtools&quot;)
+library(devtools)</code></pre>
+<ol start="2" style="list-style-type: decimal">
+<li>Instalar el paquete utilizando la funcion install_github de devtools</li>
+</ol>
+<pre class="r"><code>install_github(&quot;javiercara/DisRegETSII&quot;)</code></pre>
+<ol start="3" style="list-style-type: decimal">
+<li>Ya podemos trabajar con los datos de las transparencias. Por ejemplo, la comparación de las dos dietas para reducir el colesterol:</li>
+</ol>
+<pre class="r"><code>library(DisRegETSII)
+print(colesterol)</code></pre>
+<pre><code>##       A    B
+## 1  51.3 29.6
+## 2  39.4 47.0
+## 3  26.3 25.9
+## 4  39.0 13.0
+## 5  48.1 33.1
+## 6  34.2 22.1
+## 7  69.8 34.1
+## 8  31.3 19.5
+## 9  45.2 43.8
+## 10 46.4 24.9</code></pre>
+<pre class="r"><code>t.test(colesterol$A,colesterol$B,var.equal=TRUE)</code></pre>
+<pre><code>## 
+##  Two Sample t-test
+## 
+## data:  colesterol$A and colesterol$B
+## t = 2.6965, df = 18, p-value = 0.01476
+## alternative hypothesis: true difference in means is not equal to 0
+## 95 percent confidence interval:
+##   3.048013 24.551987
+## sample estimates:
+## mean of x mean of y 
+##      43.1      29.3</code></pre>
+<p><br></p>
+</div>
+<div id="examenes-resueltos" class="section level1">
+<h1>Examenes resueltos</h1>
+<p>En en siguiente <a href="https://javiercara.github.io/DisRegETSII_examenes/">enlace</a> se encuentran disponibles algunos exámenes resueltos con R.</p>
 </div>
 
 <!-- Footer -->
@@ -269,6 +298,7 @@ $(document).ready(function () {
 <footer class="text-center">
   <p>
   <a href="mailto:javier.cara@upm.es">javier.cara@upm.es</a><br />
+  ETS Ingenieros Industriales<br />
   José Gutiérrez Abascal, 2. 28006, Madrid<br />
   +34 9106 77081
   </p>

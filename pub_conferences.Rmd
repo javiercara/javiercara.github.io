@@ -1,7 +1,9 @@
 ---
-title: "Artículos presentados a congresos"
+title: "Communications at conferences"
 output: html_document
 ---
+
+<hr>
 
 - Cara, J., Fernández, J., Fraile, A., Lorenzana, A. *Modeling jumping loads using time series models*. 4th International Conference on Mechanical Models in Structural Engineering. Madrid, November 2017.
 
