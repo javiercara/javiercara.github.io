@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -243,12 +250,13 @@ $(document).ready(function () {
 
 
 <hr>
-<ol style="list-style-type: decimal">
+<ul>
+<li><p>Javier Cara. <em>Modal identification of structures from input/output data using the expectation–maximization algorithm and uncertainty quantification by mean of the bootstrap</em>. Structural Control and Health Monitoring, October 2018 (on-line), <a href="https://doi.org/10.1002/stc.2272" class="uri">https://doi.org/10.1002/stc.2272</a>.</p></li>
 <li><p>Javier Cara. <em>Computing the modal mass from the state space model in combined experimental–operational modal analysis</em>. Journal of Sound and Vibration, Volume 370, 26 May 2016, Pages 94-110, <a href="http://dx.doi.org/10.1016/j.jsv.2016.01.043" class="uri">http://dx.doi.org/10.1016/j.jsv.2016.01.043</a>.</p></li>
 <li><p>F. Javier Cara, J. Juan, E. Alarcón. <em>Estimating the modal parameters from multiple measurement setups using a joint state space model</em>. Mechanical Systems and Signal Processing. Vol. 43, p. 171-191, 2014, <a href="http://dx.doi.org/10.1016/j.ymssp.2013.09.012" class="uri">http://dx.doi.org/10.1016/j.ymssp.2013.09.012</a>.</p></li>
 <li><p>F. Javier Cara, J. Juan, E. Alarcón, E. Reynders, G. De Roeck. <em>Modal contribution and state-space order selection in operational modal analysis</em>. Mechanical Systems and Signal Processing. Vol. 38, p. 276-298, 2013, <a href="http://dx.doi.org/10.1016/j.ymssp.2013.03.001" class="uri">http://dx.doi.org/10.1016/j.ymssp.2013.03.001</a>.</p></li>
 <li><p>F. Javier Cara, J. Carpio, J. Juan, E. Alarcón. <em>An approach to Operational Modal Analysis using the Expectation Maximization Algorithm</em>. Mechanical Systems and Signal Processing. Vol. 31, p. 109-129, August 2012, <a href="http://dx.doi.org/10.1016/j.ymssp.2012.04.004" class="uri">http://dx.doi.org/10.1016/j.ymssp.2012.04.004</a>.</p></li>
-</ol>
+</ul>
 
 <!-- Footer -->
 <br>

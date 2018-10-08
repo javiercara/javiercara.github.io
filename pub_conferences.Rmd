@@ -5,6 +5,8 @@ output: html_document
 
 <hr>
 
+- Cara, J., Fernández, C., Mira, J. *Sensivity analysis in structural dynamics using statistical methods*. 1st Conference on Structural Dynamics. Madrid, June 2018.
+
 - Cara, J., Fernández, J., Fraile, A., Lorenzana, A. *Modeling jumping loads using time series models*. 4th International Conference on Mechanical Models in Structural Engineering. Madrid, November 2017.
 
 - Cara, J., Juan, J., Alarcón, E. *State space model and its estimation for Operational Modal Analysis with non-white noise inputs*. X International Conference on Structural Dynamics, EURODYN. Rome, September 2017.

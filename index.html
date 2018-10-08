@@ -20,9 +20,11 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
-<link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -31,10 +33,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -89,6 +93,9 @@ img {
 }
 .tabbed-pane {
   padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
 }
 button.code-folding-btn:focus {
   outline: none;
@@ -252,7 +259,7 @@ $(document).ready(function () {
 <div id="education" class="section level2">
 <h2>Education</h2>
 <ul>
-<li>PhD in Statistics &amp; Structural Dynamics, UPM, 2013.</li>
+<li>PhD in <a href="http://oa.upm.es/21767/">Operational Modal Analysis</a>, UPM, 2013.</li>
 <li>MSc in Structural Dynamics &amp; Seismic Engineering, UPM, 2007.</li>
 <li>Civil Engineering, Universidad de Granada, 2001.</li>
 </ul>
@@ -261,14 +268,10 @@ $(document).ready(function () {
 <div id="interests" class="section level2">
 <h2>Interests</h2>
 <ul>
-<li>State Space Model.</li>
-<li>EM algorithm.</li>
-<li>Subspace method.</li>
+<li>Time series analysis using the State Space Model.</li>
+<li>The Expectation-Maximization algorithm for State Space Models.</li>
 <li>Operational Modal Analysis.</li>
-<li>Signal analysis.</li>
-<li>Time series.</li>
-<li>Classification and Regression trees.</li>
-<li>Programing in R.</li>
+<li><a href="https://www.r-project.org/">R</a> and <a href="https://julialang.org/">Julia</a>.</li>
 </ul>
 </div>
 

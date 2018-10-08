@@ -17,18 +17,14 @@ Associate Professor (Contratado Doctor) of Statistics at:
 <br>
 
 ## Education
-- PhD in Statistics & Structural Dynamics, UPM, 2013.
+- PhD in [Operational Modal Analysis](http://oa.upm.es/21767/), UPM, 2013. 
 - MSc in Structural Dynamics & Seismic Engineering, UPM, 2007.
 - Civil Engineering, Universidad de Granada, 2001.
 
 <br>
 
 ## Interests
-- State Space Model.
-- EM algorithm.
-- Subspace method.
+- Time series analysis using the State Space Model.
+- The Expectation-Maximization algorithm for State Space Models.
 - Operational Modal Analysis.
-- Signal analysis.
-- Time series.
-- Classification and Regression trees.
-- Programing in R.
+- [R](https://www.r-project.org/) and [Julia](https://julialang.org/).
