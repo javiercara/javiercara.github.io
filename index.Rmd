@@ -27,4 +27,4 @@ Associate Professor (Contratado Doctor) of Statistics at:
 - Time series analysis using the State Space Model.
 - The Expectation-Maximization algorithm for State Space Models.
 - Operational Modal Analysis.
-- [R](https://www.r-project.org/) and [Julia](https://julialang.org/).
+- Computational statistics using [R](https://www.r-project.org/), [Julia](https://julialang.org/) and [Python](https://www.python.org/).
