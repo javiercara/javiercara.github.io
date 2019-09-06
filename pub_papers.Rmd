@@ -5,6 +5,8 @@ output: html_document
 
 <hr>
 
+- E. Caro, J. Juan, J. Cara. *Periodically correlated models for short-term electricity load forecasting*. Applied Mathematics and Computation, Volume 364, 1 January 2020, 124642. https://doi.org/10.1016/j.amc.2019.124642.
+
 - Javier Cara. *Modal identification of structures from input/output data using the expectation–maximization algorithm and uncertainty quantification by mean of the bootstrap*. Structural Control and Health Monitoring, October 2018 (on-line), https://doi.org/10.1002/stc.2272.
 
 - Javier Cara. *Computing the modal mass from the state space model in combined experimental–operational modal analysis*. Journal of Sound and Vibration, Volume 370, 26 May 2016, Pages 94-110, http://dx.doi.org/10.1016/j.jsv.2016.01.043.
