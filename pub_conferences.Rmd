@@ -5,6 +5,12 @@ output: html_document
 
 <hr>
 
+- Cara, Javier. *Bayesian operational modal analysis in time domain using Stan*. XII International Conference on Structural Dynamics, EURODYN. Delft, July 2023. Computer programs: https://github.com/javiercara/eurodyn2023
+
+- Cara, Javier, Magdaleno, Alvaro. *The Observed Fisher Information matrix for uncertainty quantification in Operational Modal Analysis*. 6th International Conference on Mechanical Models in Structural Engineering, CMMoST. Valladolid, 2021.
+
+- Cara, Javier. *Maximum likelihood estimation of damping in the frequency domain decomposition method*. XI International Conference on Structural Dynamics, EURODYN. Athens, November 2020.
+
 - Cara, Javier. *Operational modal analysis using the state space model: analyzing the effect of the correlation between the error terms*. 8th International Operational Modal Analysis Conference - IOMAC2019. Copenhaguen, May 2019.
 
 - Cara, J., Fernández, C., Mira, J. *Sensivity analysis in structural dynamics using statistical methods*. 1st Conference on Structural Dynamics. Madrid, June 2018.

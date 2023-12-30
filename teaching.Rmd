@@ -5,21 +5,13 @@ output: html_document
 
 <hr>
 
-# Asignaturas impartidas en el curso 2018/19
-
-- [Grado en Ingeniería en Tecnologías Industriales](https://www.etsii.upm.es/estudios/grados/ingenieria_industrial.es.htm)
-    - Estadística
-- [Grado en Ingeniería de Organización](https://www.etsii.upm.es/estudios/grados/ingenieria_organizacion.es.htm)
-    - [Técnicas Avanzadas de Estadística](https://www.javiercara.com/TAE-GIO/)
-- [Grado en Ingeniería Química](https://www.etsii.upm.es/estudios/grados/ingenieria_quimica.es.htm)
-    - [Diseño de Experimentos y Modelos de Regresión](tea_DisReg.html)
-
-# Asignaturas impartidas en el curso 2017/18
+# Asignaturas impartidas en el curso 2023/24
 
 - Grado en Ingeniería en Tecnologías Industriales
     - Estadística
     - Diseño de Experimentos y Modelos de Regresión
-- Máster Universitario en Ingeniería de Organización
-    - BigData: de los datos a las decisiones
-- Máster Universitario en Ingeniería Sísmica
-    - Control Dinámico de Estructuras
+- Grado en Ingeniería de Organización
+    - [Técnicas Avanzadas de Estadística](https://www.javiercara.com/TAE_2023_24/)
+- Máster Universitario en Ingeniería Sísmica: Dinámica de Suelos y Estructura
+    - Métodos Generales de Calculo. Sistemas Discretos y Continuos
+
