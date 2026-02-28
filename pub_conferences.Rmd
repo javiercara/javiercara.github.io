@@ -5,6 +5,12 @@ output: html_document
 
 <hr>
 
+- Cara, Javier. *Incertidumbre de los parámetros modales estimados en el análisis modal operacional de estructuras*. XLI Congreso Nacional de Estadística e Investigación Operativa, SEIO 2025, Lérida, Junio de 2025.
+
+- Cara, Javier. *About the uncertainty of modal parameters estimated in Operational Modal Analysis*. 11th International Operational Modal Analysis Conference, IOMAC. Rennes, May 2025.
+
+- Cara, Javier; Magalhaes, Filipe. *Operational modal analysis of wind turbine structures: a maximum likelihood approach*. 10th International Operational Modal Analysis Conference, IOMAC. Naples, May 2024.
+
 - Cara, Javier. *Bayesian operational modal analysis in time domain using Stan*. XII International Conference on Structural Dynamics, EURODYN. Delft, July 2023. Computer programs: https://github.com/javiercara/eurodyn2023
 
 - Cara, Javier, Magdaleno, Alvaro. *The Observed Fisher Information matrix for uncertainty quantification in Operational Modal Analysis*. 6th International Conference on Mechanical Models in Structural Engineering, CMMoST. Valladolid, 2021.

@@ -5,6 +5,10 @@ output: html_document
 
 <hr>
 
+- Javier Cara, David Escolano-Margarit, Amadeo Benavent-Climent. *Estimation of modal parameters of structures subjected to known base accelerations: Application to shake table tests*. Soil Dynamics and Earthquake Engineering, Volume 196 (2025). https://doi.org/10.1016/j.soildyn.2025.109437
+
+- Daniel Bouzon Nagem Assad, Patricia Gomes Ferreira da Costa, Thaís Spiegel, Javier Cara, Miguel Ortega-Mier & Alfredo Monteiro Scaff. *Comparing the current short‐term cancer incidence prediction models in Brazil with state‐of‐the‐art time‐series models*.  Scientific  Reports,  14, Article number: 4566 (2024). https://doi.org/10.1038/s41598-024-55230-2
+
 - Assad, D.B.N., Cara, J. & Ortega-Mier, M. *Comparing Short-Term Univariate and Multivariate Time-Series Forecasting Models in Infectious Disease Outbreak*. Bull Math Biol 85, 9 (2023). https://doi.org/10.1007/s11538-022-01112-5.
 
 - E. Caro, J. Juan, J. Cara. *Periodically correlated models for short-term electricity load forecasting*. Applied Mathematics and Computation, Volume 364, 1 January 2020, 124642. https://doi.org/10.1016/j.amc.2019.124642.
